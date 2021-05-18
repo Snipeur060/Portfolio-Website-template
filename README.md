@@ -5,8 +5,13 @@
 Le déploiement est simple et rapide un export github et le site fonctionne</br> 
 Néanmoins il reste les meta à faire (lorsque l'on met le lien un aperçu apparaît</br>
 ![Exemple](https://media.discordapp.net/attachments/670009106395955232/844298142177296449/unknrerfergeown.png)</br>
-Ainsi il faut completer les fields suivants (d'autres restes possibles)</br>
-
+Ainsi il faut completer les fields suivants (d'autres restes possibles et ils peuvent être mis dans le head pour la propreté):</br>
+` <meta name="description" content="By Snipeur060">`</br>
+` <meta name="theme-color" content="#0000FF">`</br>
+`<link rel="shortcut icon" type="image/png" href="linkhere"/>`</br>
+`  <meta property="og:image" content="linkhere" />`</br>
+  
+  
 ## Crédits principaux
 1.  Snipeur060 alias 💻снайпер060⌨#8273 
 2.  Bootstrap
