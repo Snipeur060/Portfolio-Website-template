@@ -4,7 +4,8 @@
 **C'est un site open source sur lequel vous pouvez vous présnter ou alors presenter un bot**
 Le déploiement est simple et rapide un export github et le site fonctionne</br> 
 Néanmoins il reste les meta à faire (lorsque l'on met le lien un aperçu apparaît</br>
-![Exemple](https://media.discordapp.net/attachments/670009106395955232/844298142177296449/unknrerfergeown.png)
+![Exemple](https://media.discordapp.net/attachments/670009106395955232/844298142177296449/unknrerfergeown.png)</br>
+Ainsi il faut completer les fields suivants (d'autres restes possibles)</br>
 
 ## Crédits principaux
 1.  Snipeur060 alias 💻снайпер060⌨#8273 
