@@ -19,3 +19,4 @@ Ainsi il faut completer les fields suivants (d'autres restes possibles et ils pe
 
 *Il existe une version ancienne du site (dans le dossier firstdev) vous pouvez le supprimer il n'est pas nécessaire*</br>
 Version 1.2
+Attention certaines modifications ne sont pas possible 
