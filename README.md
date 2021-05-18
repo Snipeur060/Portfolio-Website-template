@@ -5,5 +5,5 @@
 
 *Crédits:*
 ## Crédits principaux
-2.  Snipeur060 alias 💻снайпер060⌨#8273 
-3.  Bootstrap
+1.  Snipeur060 alias 💻снайпер060⌨#8273 
+2.  Bootstrap
