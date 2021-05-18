@@ -4,4 +4,6 @@
 **C'est un site open source sur lequel vous pouvez vous présnter ou alors presenter un bot**
 
 *Crédits:*
-1. Crédits principaux * Snipeur060 alias 💻снайпер060⌨#8273 * Bootstrap
+## Crédits principaux
+2.  Snipeur060 alias 💻снайпер060⌨#8273 
+3.  Bootstrap
