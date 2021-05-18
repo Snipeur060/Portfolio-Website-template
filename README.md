@@ -18,3 +18,4 @@ Ainsi il faut completer les fields suivants (d'autres restes possibles et ils pe
 2.  Bootstrap
 
 *Il existe une version ancienne du site (dans le dossier firstdev) vous pouvez le supprimer il n'est pas nécessaire*
+Version 1.2
