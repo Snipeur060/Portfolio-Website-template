@@ -2,3 +2,11 @@
   color: #0a12e4;
 }
 
+//Import untitled1 folder compact -->
+
+.portfolio .portfolio-item .portfolio-item-caption {
+  transition: all ease .5s;
+  opacity: 0;
+  background-color: rgba(0,178,255,0.9);
+}
+
